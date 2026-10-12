@@ -1,0 +1,28 @@
+{
+  "name": "Campus-Memo",
+  "description": "Campus-Memo (CMEMO) - HKU Drone Club limited-edition commemorative NFT. Hard cap 10 pieces (token ids 0-9). Minting one commemorative NFT consumes 100 CPT, and only club members who stake 50 CPT to join the mint whitelist are eligible to mint.",
+  "image": "https://raw.githubusercontent.com/QiuQiu-xuan/campus-memo-nft/main/campus-memo.png",
+  "external_url": "https://www.hku.hk/",
+  "attributes": [
+    {
+      "trait_type": "Club",
+      "value": "HKU Drone Club"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Campus-Memo"
+    },
+    {
+      "trait_type": "Max supply",
+      "value": 10
+    },
+    {
+      "trait_type": "Mint price",
+      "value": "100 CPT"
+    },
+    {
+      "trait_type": "Whitelist deposit",
+      "value": "50 CPT"
+    }
+  ]
+}
